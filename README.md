@@ -13,7 +13,7 @@ Este proyecto satisface la solicitud de la prueba practica de programación para
 
 # :bookmark_tabs: Tiempo total.
 
-Para el desarrollo total de este programa se ocuparon aproximadamente 3 horas y 40 minutos.
+Para el desarrollo total de este programa se ocuparon aproximadamente 3 horas y 40 minutos [~4 hrs].
 
 <br />
 

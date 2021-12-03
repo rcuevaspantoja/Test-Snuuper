@@ -1,8 +1,8 @@
 ### Hola internet :earth_americas:, me llamo Rodolfo y soy Ingeniería Civil en informática de la Universidad del BioBío en Concepción, Chile.
 
 
-### Redes :leaves:
-[<img align="left" alt="rcuevaspantoja | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />][Gmail]
+### Correo Electronico :leaves:
+ Click -> [<img align="left" alt="rcuevaspantoja | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />][Gmail]
 <br />
 
 # :bookmark_tabs: Introducción.

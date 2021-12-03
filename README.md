@@ -7,7 +7,7 @@
 
 # :bookmark_tabs: Introducción.
 
-Este proyecto satisface la solicitud de la segunda prueba practica de programación para el puesto de Backend Developer. Esta incluye un backend en NodeJs que se conecta con MongoDB para la base de datos y un Frontend en React para mostrar en pantalla lo realizado. Esto en conocimiento de que no era necesario presentar un front y bastaba con probar en softwares como Postman los POST y GET pero teniendo el tiempo y disposición de aprender mas preferí hacerlo de esta manera y ojalá no sea una complicación al momento de evaluar mi desarrollo.
+Este proyecto satisface la solicitud de la segunda prueba practica de programación para el puesto de Backend Developer. Esta incluye un backend en NodeJs que se conecta con MongoDB para la base de datos y un Frontend en React para mostrar en pantalla lo realizado. Esto en conocimiento de que no era necesario presentar un front y bastaba con probar en softwares como Postman los POST y GET pero teniendo el tiempo y disposición de aprender sumado a que me hacía sentir más seguro de que funcionara bien, preferí hacerlo de esta manera y ojalá no sea una complicación al momento de evaluar mi Test.
 
 <br />
 

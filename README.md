@@ -17,6 +17,15 @@ Para el desarrollo total de este programa se ocuparon aproximadamente 3 horas y 
 
 <br />
 
+# :bookmark_tabs: Tecnologías Utilizadas.
+
+ - Node (v14.18)
+ - React
+ - Postman
+ - Google Chrome
+
+<br />
+
 # :bookmark_tabs: Desarrollo.
 
 Para el desarrollo de este código Se utilizó MongoDB como base de datos debido a que era lo que se dió por preferencia y lo decidí utilizar, pese a que sabía que me iba a demorar mas, para este desarrollo se utilizaron codigos antiguos, documentación encontrada en internet junto con videos. Tambien se hizo uso de paquetes de npm como express, mongoose, nodemon, cors y bcrypt para la encriptación de la contraseña en la base de datos.

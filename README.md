@@ -32,3 +32,6 @@ Luego de clonar el repositorio se debe ejecutar en la carpeta de backend se debe
 # :bookmark_tabs: Conclusión.
 
 Se agradece de antemano el tiempo para la comunicacón y la buena onda en la entrevista, espero cumplir con los requerimientos necesario para el puesto solicitado y en caso de no hacerlo fue una muy grata experiencia y un test interesante de realizar.
+
+
+[Gmail]: mailto:rcuevaspantoja@gmail.com
